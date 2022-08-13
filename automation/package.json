@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf-node": "^1.0.7",
+    "jspdf": "^2.5.1",
+    "pdfkit": "^0.13.0",
+    "promise": "^8.1.0",
+    "puppeteer": "^15.5.0"
+  }
+}
